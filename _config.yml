@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changhu Wang"
+  name             : "Changhu Wang (王长虎)"
   avatar           : "profile.png"
   bio              : "Head of Vision Technology at ByteDance"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=DsVZkjAAAAAJ"
-  email            : "wangchanghu AT bytedance DOT com"
+  email            : "wangchanghu@bytedance.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
