@@ -1,4 +1,21 @@
 
+---
+[^_^]: layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 # Publications
 
 ## 2019
@@ -110,21 +127,3 @@
 
 ## 2004
 •    Changhu Wang, Shuicheng Yan, Hua Li, Hong-Jiang Zhang, Mingjing Li. Automatic, Effective, and Efficient 3D Face Reconstruction from Arbitrary View Image, in Proc. Of the 5th Pacific Rim Conference on Multimedia (PCM), Tokyo Waterfront City, Japan, November 2004.
-
-
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
