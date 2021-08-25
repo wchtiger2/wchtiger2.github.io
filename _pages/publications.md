@@ -17,6 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
+
 ## 2021
 - Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee. MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis. ICCV 2021.
 - Lei Zhu, Qi She, Duo Li, Yanye Lu, Xuejing Kang, Jie Hu, Changhu Wang, Unifying Nonlocal Blocks for Neural Networks. ICCV 2021.
@@ -28,11 +29,12 @@ author_profile: true
 - Wei Wang, Haochen Zhang, Zehuan Yuan, Changhu Wang. Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective. ICCV 2021.
 - Xindi Shang, Zehuan Yuan, Anran Wang, Changhu Wang. Multimodal Video Summarization via Time-Aware Transformers. ACM MM 2021.
 - Peize Sun, Yi Jiang, Enze Xie, Wenqi Shao, Zehuan Yuan, Changhu Wang, Ping Luo. What Makes for End-to-End Object Detection? ICML 2021.
-- Duo Li, Jie Hu, Xiangtai Li,  Changhu Wang, Qi She, Lei Zhu, Tong Zhang, Qifeng Chen. Inverting the Inherence of Convolution for Visual Recognition. CVPR 2021.
+- Duo Li, Jie Hu, Changhu Wang, Xiangtai Li,  Qi She, Lei Zhu, Tong Zhang, Qifeng Chen. Involution: Inverting the Inherence of Convolution for Visual Recognition. CVPR 2021.
 - Jiacheng Chen, Hexiang Hu, Hao Wu, Yuning Jiang, Changhu Wang. Learning the Best Pooling Strategy for Visual Semantic Embedding. CVPR 2021.
 - Peize Sun, Rufeng Zhang, Yi Jiang, Tao Kong, Chenfeng Xu, Wei Zhan, Masayoshi Tomizuka, Lei Li, Zehuan Yuan, Changhu Wang, Ping Luo.  Sparse R-CNN: End-to-End Object Detection with Learnable Proposals. CVPR2021.
 - Liang Hou, Zehuan Yuan, Lei Huang, Huawei Shen, Xueqi Cheng, Changhu Wang. Slimmable Generative Adversarial Networks. AAAI 2021.
 - Daizong Yu, Dongdong Yu, Changhu Wang, Pan Zhou. F2Net: Learning to Focus on the Foreground for Unsupervised Video Object Segmentation. AAAI 2021.
+
 
 ## 2020
 * Jie Shao, Kai Hu, Changhu Wang, Xiangyang Xue, Bhiksha Raj. Is normalization indispensable for training deep neural network? NeurIPS 2020.
@@ -41,13 +43,13 @@ author_profile: true
 * Wei Li, Zehuan Yuan, Xiangzhong Fang, Changhu Wang. MoFlowGAN: Video Generation with Flow Guidance. ICME 2020.
 * Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Changhu Wang. Improving Convolutional Networks with Self-Calibrated Convolutions. CVPR 2020.
 *    Lu Chi,  Zehuan Yuan, Yadong Mu, Changhu Wang. Non-Local Neural Networks with Grouped Bilinear Attentional Transforms. CVPR 2020.
-*    Yunhang Shen, Rongrong Ji, Kuiyuan Yang, Cheng Deng, Changhu Wang. Category-Aware Spatial Constraint for Weakly Supervised Detection. TIP 2020.
 
 ## 2019
-*    Si Liu, Guanghui Ren, Yao Sun, Jinqiao Wang, Changhu Wang, Bo Li, Shuicheng Yan. Fine-grained Human-centric Tracklet Segmentation with Single Frame Supervision. Accepted by PAMI.
+*    Si Liu, Guanghui Ren, Yao Sun, Jinqiao Wang, Changhu Wang, Bo Li, Shuicheng Yan. Fine-grained Human-centric Tracklet Segmentation with Single Frame Supervision. PAMI 2019.
 *    Kai Su, Dongdong Yu, Zhenqi Xu, Xin Geng, Changhu Wang. Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information. CVPR 2019.
 *    He Huang, Changhu Wang, Philip S Yu, Chang-Dong Wang. Generative Dual Adversarial Network for Generalized Zero-shot Learning. CVPR 2019.
 *    Tao Wei, Changhu Wang and Chang Wen Chen. Stable Network Morphism. IJCNN 2019.
+*    Yunhang Shen, Rongrong Ji, Kuiyuan Yang, Cheng Deng, Changhu Wang. Category-Aware Spatial Constraint for Weakly Supervised Detection. TIP 2019.
 
 ## 2018
 *    Jia Sun, Dongdong Yu, Yinghong Li, Changhu Wang. Mask Propagation Network for Video Object Segmentation. CVPR 2018 workshop, the DAVIS Challenge on Video Object Segmentation.
