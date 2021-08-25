@@ -1,5 +1,5 @@
 ---
-*[-_-]:layout: archive
+layout: archive
 title: "Publications"
 *[^_^]:permalink: /publications/
 author_profile: true
