@@ -10,8 +10,7 @@ redirect_from:
 
 This is Changhu Wang's personal homepage. It is still under development.
 
-Introduction
-======
+## Introduction
 
 Changhu Wang is currently the Head of Vision Technology at ByteDance. He received B.E. and Ph.D. degrees from the University of Science and Technology of China, in 2004 and 2009, respectively. He was the Director of ByteDance AI Lab from 2017.3 to 2021.1. Before joining ByteDance AI Lab, he worked as a lead researcher in Microsoft Research from 2009 to 2017. He worked as a research engineer at the department of Electrical and Computer Engineering in National University of Singapore in 2008.
 
