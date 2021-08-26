@@ -2,12 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Patents"
     url: /patents/
 
   - title: "Talks"
     url: /talks/
+    
+  - title: "Academic Service"
+    url: /academic/
 
   - title: "Competitions"
     url: /competitions/
