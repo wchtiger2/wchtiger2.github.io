@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Competitions"
-    url: /competitions/
-    
   - title: "Patents"
     url: /patents/
+
+  - title: "Competitions"
+    url: /competitions/
 
   - title: "Talks"
     url: /talks/
